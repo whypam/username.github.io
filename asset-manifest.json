@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d467006e.chunk.css",
+    "main.js": "/static/js/main.7a2a06e9.chunk.js",
+    "main.js.map": "/static/js/main.7a2a06e9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a191de8a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a191de8a.js.map",
+    "static/js/2.aff727b0.chunk.js": "/static/js/2.aff727b0.chunk.js",
+    "static/js/2.aff727b0.chunk.js.map": "/static/js/2.aff727b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f42a9ef5dab8304bf94ca1a33aea459d.js": "/precache-manifest.f42a9ef5dab8304bf94ca1a33aea459d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d467006e.chunk.css.map": "/static/css/main.d467006e.chunk.css.map",
+    "static/media/course_development.png": "/static/media/course_development.f760a1dc.png",
+    "static/media/cp_animate_app.png": "/static/media/cp_animate_app.d694fa36.png",
+    "static/media/ct_rthk_cibs.jpg": "/static/media/ct_rthk_cibs.1389483a.jpg",
+    "static/media/image_transformation_app.png": "/static/media/image_transformation_app.023055fd.png",
+    "static/media/info_processing_models_app.png": "/static/media/info_processing_models_app.15f0c983.png",
+    "static/media/lesson_plan.jpg": "/static/media/lesson_plan.d0746fb5.jpg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/lucy_paw_app.png": "/static/media/lucy_paw_app.d7fad5b1.png",
+    "static/media/mch_app.png": "/static/media/mch_app.9fa4e74e.png",
+    "static/media/oop_app.png": "/static/media/oop_app.9b6482c1.png",
+    "static/media/variable_app.png": "/static/media/variable_app.e86136ff.png",
+    "static/media/variable_type_app.png": "/static/media/variable_type_app.06ed65ab.png",
+    "static/media/style.css": "/static/media/whypam_banner.3bbf9715.png"
+  }
+}
